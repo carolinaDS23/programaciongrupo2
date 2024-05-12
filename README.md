@@ -22,6 +22,20 @@ La siguiente web como mencionamos anteriormente es una red social para conectar 
 
 ## Licencia: 
 
+                ------------------------------------------------------------------------------------------------------------
+#Group programming 2
+Repogroup2
+#proyect: TALKING 
+
+## description
+
+The following development of the web consists of the following, it is a social network that connects people around the world to learn languages ​​in common who want to learn, according to your chosen language level, place, tastes, etc.
+Courses are added to strengthen oral-written knowledge and thus be able to have more confidence when carrying out the conversation.
+
+
+
+
+
 
 ## Desarrolladores: 
 ## Arias Rodrigo, Benegas Lourdes, Garaycoechea Carolina, Rojas William. 
