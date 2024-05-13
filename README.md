@@ -3,7 +3,7 @@ repogrupo2
  # Proyecto:  TALKING 
 
 ## Descripcion: 
-El siguiente desarrollo de la web consta de la siguiente manera, es una red social que conecta personas del mundo para el aprendizaje de idiomas en comun que quieran aprender, deacuerdo a su nivel de lenguaje elegido, lugar, gustos, etc.- Se adicionan  cursos para poder afianzar el conocimiento oral-escrito y asi poder tener mas confianza a la hora de realizar la conversacion.- 
+El siguiente desarrollo de la web consta de la siguiente manera, es una red social que conecta personas del mundo para el aprendizaje de idiomas en comun que quieran aprender, deacuerdo a su nivel de lenguaje elegido, lugar, gustos, etc.- Se adicionan cursos con el fin de afianzar el conocimiento oral-escrito y asi poder adquirir mas confianza a la hora de iniciar una conversacion.- 
 
 
 ## Uso: 
@@ -29,8 +29,7 @@ Repogroup2
 
 ## description
 
-The following development of the web consists of the following, it is a social network that connects people around the world to learn languages ​​in common who want to learn, according to your chosen language level, place, tastes, etc.
-Courses are added to strengthen oral-written knowledge and thus be able to have more confidence when carrying out the conversation.
+
 
 
 
